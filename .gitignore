@@ -1,0 +1,19 @@
+# Histórico e materiais de estudo
+arquivo_curso/
+
+# Arquivos temporários do Python e Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ambientes e configurações locais
+.venv/
+venv/
+.env
+.env.*
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
